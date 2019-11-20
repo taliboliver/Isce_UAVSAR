@@ -1,5 +1,5 @@
 # ISCE UAVSAR
-This repository contains some basic instructions to process and unwrap UAVSAR images using the InSAR Scientific Computing Environment version 2 [ISCE2](https://github.com/isce-framework/isce2) software. To see the full example step by step please go to the [jypiter notebook example](Isce_UAVSAR/IsceUAVSARprocessing.ipynb). Follow the instructions step by step. 
+This repository contains some basic instructions to process and unwrap UAVSAR images using the InSAR Scientific Computing Environment version 2 [ISCE2](https://github.com/isce-framework/isce2) software. To see the full example step by step please go to the [jupyter notebook example](Isce_UAVSAR/IsceUAVSARprocessing.ipynb). Follow the instructions step by step. 
 
 # Notes about ISCE installation
 The full software package as well as installation instructions can be found [here](https://github.com/isce-framework/isce2.
