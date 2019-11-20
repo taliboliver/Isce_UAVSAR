@@ -14,7 +14,7 @@ The full software package as well as installation instructions can be found [her
  
  - **Anaconda installation** For linux, its very convenient and allows to have ISCE2 as an [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
  
- To install conda (modified from @yunjunz): 
+ To install conda modified from [yunjunz github](https://github.com/yunjunz): 
  Add to the .bash_profile
  ```
  export PYTHON3DIR=~/python/miniconda3
