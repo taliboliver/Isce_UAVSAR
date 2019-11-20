@@ -3,7 +3,6 @@ This repository contains some basic instructions to process and unwrap UAVSAR im
 
 # Notes about ISCE installation
 The full software package as well as installation instructions can be found [here](https://github.com/isce-framework/isce2.
-### Some notes
  - If you are installing ISCE2 on OSX I suggest to use **Homebrew installation** that Jose Uribe put together and shared within the [ISCE forum](http://earthdef.caltech.edu/boards/4/topics/2636) as well as on [github](https://github.com/juribeparada/homebrew-isce). To install Homebrew [go here](https://brew.sh/).
  
  - **MacPorts installation** also works well, first [install MacPorts](https://www.macports.org/install.php) and then follow the instructions provided in the [ISCE repository](https://github.com/isce-framework/isce2#with-macports). Also an easier installation can be done using py36-isce2 and py37-isce2 ports. Visit here for more [information](http://earthdef.caltech.edu/boards/4/topics/2906).
